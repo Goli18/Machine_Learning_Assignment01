@@ -13,4 +13,4 @@ Here in the seventh question, getting the lines using the tab escape sequence
 Here in the eighth question, found the area of the circle and used the string formatting method to display it.
 Here in the 9th question, converted the lbs in kgs from a list of n students in to a separate list.
 
-Video Link: 
+Video Link: https://www.veed.io/view/0c7a0aa7-71c7-42c5-8c1b-4e4497087273?source=compressor-sharing
